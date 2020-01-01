@@ -25,5 +25,10 @@ npm run test
 npm run lint
 ```
 
+### Checkout your webpackConfig
+```
+vue inspect [> outputFile]
+```
+or you can see [here](https://cli.vuejs.org/guide/webpack.html#simple-configuration) for more information
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
